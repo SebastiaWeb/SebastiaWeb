@@ -22,11 +22,11 @@
 
 - **Languages**:
     
-    ![](https://skillicons.dev/icons?i=c,cs,java,javascript,ts,python)
+    ![](https://skillicons.dev/icons?i=cpp,cs,java,javascript,ts,python,dart)
     
 - **Front-End Development**:
   
-    ![](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,react)
+    ![](https://skillicons.dev/icons?i=js,html,css,bootstrap,angular,react,nextjs,redux)
 
 - **Back-End Development**:
 
@@ -42,7 +42,7 @@
 
 - **Softwares and Tools**:
 
-    ![](https://skillicons.dev/icons?i=git,github,figma,canva)
+    ![](https://skillicons.dev/icons?i=linux,docker,git,github,figma,powershell,bash,postman)
     
 - **IDEs/Editors**:
 
@@ -50,7 +50,7 @@
 
 - **Extras**:
 
-    ![](https://skillicons.dev/icons?i=linux,bash,terminal)
+    ![](https://skillicons.dev/icons?i=figma,vite,npm)
 
 <hr>
 
